@@ -1,0 +1,3 @@
+good morning this is python script for writing and truncating the file
+first truncate the file using truncate method
+take the input and writee to the file
